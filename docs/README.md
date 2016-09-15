@@ -3,7 +3,7 @@
 2. En la consola posiciónate en la carpeta **bicis-locas** e inicializa un repositorio en dicha carpeta
 3. Crea un repositorio que se llame **bicis-locas** en GITHUB, haz tu primer commit y sube los archivos al repositorio. 
 4. Abre el archivo **js/main.js** y completa la función **validateForm**, se deben hacer las siguientes validaciones en los campos:
-⋅⋅* Todos los campos son obligatorios, excepto los dos últimos. 
+..* Todos los campos son obligatorios, excepto los dos últimos. (twiter o deseo recibir )
 ..* Los campos nombre y apellido sólo deben permitir caracteres de la A-Z
 ..* Para los campos nombre y apellido la primera letra debe ser mayúscula
 ..* Validar que el campo email tenga un formato válido. Ej: name@domain.com
